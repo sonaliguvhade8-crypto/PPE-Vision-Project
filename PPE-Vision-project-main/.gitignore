@@ -1,0 +1,20 @@
+venv/
+.env
+__pycache__/
+
+# Models
+*.pt
+
+# Dataset (VERY IMPORTANT)
+dataset/
+dataset_old/
+*/images/
+*/labels/
+
+# YOLO runs
+runs/
+
+# Images & videos
+*.jpg
+*.png
+*.mp4
