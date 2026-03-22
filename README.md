@@ -58,4 +58,4 @@ System sends email if:
 
 ## 👩‍💻 Author
 
-Sonal Guvhade
+Sonali Guvhade
