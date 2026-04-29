@@ -18,7 +18,7 @@ def run_detection():
     global detection_process
     try:
         project_path = r"C:\Users\sonal\OneDrive\Desktop\PPE-Vision-Project\PPE-Vision-project-main\detection\Construction-PPE-detection-main"
-        script_path = os.path.join(project_path, "webcam.py")
+        script_path = os.path.join(project_path, "webcam1.py")
 
         print(f"🔍 Running detection script at: {script_path}")
 
@@ -29,7 +29,7 @@ def run_detection():
 
         # Start detection process
         detection_process = subprocess.Popen(
-            [python_path, "webcam.py"],
+            [python_path, "webcam1.py"],
             cwd=project_path
         )
 

@@ -1,0 +1,17 @@
+train: dataset/train/images
+val: dataset/valid/images
+test: dataset/test/images
+
+nc: 10
+
+names:
+- boots
+- gloves
+- goggles
+- helmet
+- no-boots
+- no-gloves
+- no-goggles
+- no-helmet
+- no-vest
+- vest
