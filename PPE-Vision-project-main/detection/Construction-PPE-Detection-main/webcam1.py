@@ -252,10 +252,8 @@ def main():
             f"Hardhats: {hardhat_count}",
             f"Safety Vests: {vest_count}",
             f"Masks: {mask_count}",
-            f"Gloves: {gloves_count}",
-            f"Boots: {boots_count}",
-            f"Goggles: {goggles_count}",
-            f"Violations: {violation_count}"
+          
+           
 
         ]
 
